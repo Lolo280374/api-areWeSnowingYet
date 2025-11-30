@@ -1,4 +1,466 @@
 {
-  "generated": "2025-11-30T10:23:54.175993Z",
-  "next_refresh": "2025-11-30T15:23:54.175993Z"
+  "type": "FeatureCollection",
+  "generated": "2025-11-30T15:04:07.325546Z",
+  "next_refresh": "2025-11-30T20:04:07.325546Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chicago",
+        "country": "United States",
+        "code": 73,
+        "temperature": -2.0,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6866,
+          41.8375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salt Lake City",
+        "country": "United States",
+        "code": 73,
+        "temperature": 0.5,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9311,
+          40.7776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ottawa",
+        "country": "Canada",
+        "code": 73,
+        "temperature": -1.6,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.695,
+          45.4247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ogden",
+        "country": "United States",
+        "code": 73,
+        "temperature": 0.2,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9682,
+          41.2279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khabarovsk",
+        "country": "Russia",
+        "code": 71,
+        "temperature": -12.1,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.0833,
+          48.4833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vladivostok",
+        "country": "Russia",
+        "code": 71,
+        "temperature": -1.4,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.8853,
+          43.115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ulan-Ude",
+        "country": "Russia",
+        "code": 71,
+        "temperature": -21.8,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6,
+          51.8333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Markham",
+        "country": "Canada",
+        "code": 73,
+        "temperature": 1.0,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2633,
+          43.8767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gatineau",
+        "country": "Canada",
+        "code": 73,
+        "temperature": -1.6,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.65,
+          45.4833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nizhnevartovsk",
+        "country": "Russia",
+        "code": 71,
+        "temperature": -6.9,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6,
+          60.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blagoveshchensk",
+        "country": "Russia",
+        "code": 71,
+        "temperature": -16.5,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.5333,
+          50.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Komsomol’sk-na-Amure",
+        "country": "Russia",
+        "code": 71,
+        "temperature": -15.9,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.0,
+          50.5667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hunchun",
+        "country": "China",
+        "code": 73,
+        "temperature": -0.1,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.366,
+          42.863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Richmond Hill",
+        "country": "Canada",
+        "code": 73,
+        "temperature": 1.0,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4333,
+          43.8667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rajin",
+        "country": "Korea, North",
+        "code": 75,
+        "temperature": -0.5,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3844,
+          42.3444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dongning",
+        "country": "China",
+        "code": 71,
+        "temperature": -7.3,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.8167,
+          44.1167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ussuriysk",
+        "country": "Russia",
+        "code": 73,
+        "temperature": -3.5,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.9667,
+          43.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Norilsk",
+        "country": "Russia",
+        "code": 71,
+        "temperature": -15.7,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.2167,
+          69.3333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sudbury",
+        "country": "Canada",
+        "code": 73,
+        "temperature": -4.7,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.01,
+          46.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hoeryŏng",
+        "country": "Korea, North",
+        "code": 73,
+        "temperature": -2.2,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.75,
+          42.4333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Reykjavík",
+        "country": "Iceland",
+        "code": 73,
+        "temperature": 1.9,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9425,
+          64.1458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trois-Rivières",
+        "country": "Canada",
+        "code": 73,
+        "temperature": -2.7,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.55,
+          46.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Valley City",
+        "country": "United States",
+        "code": 73,
+        "temperature": 0.2,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0123,
+          40.6886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kanata",
+        "country": "Canada",
+        "code": 73,
+        "temperature": -1.4,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.9,
+          45.3333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kingston",
+        "country": "Canada",
+        "code": 73,
+        "temperature": 0.4,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4553,
+          44.3128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amherst",
+        "country": "United States",
+        "code": 73,
+        "temperature": 1.9,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.757,
+          43.0117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Longjing",
+        "country": "China",
+        "code": 71,
+        "temperature": -4.0,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.4333,
+          42.7667
+        ]
+      }
+    }
+  ]
 }
