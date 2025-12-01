@@ -1,158 +1,141 @@
 {
   "type": "FeatureCollection",
-  "generated": "2025-12-01T00:00:46.108101Z",
-  "next_refresh": "2025-12-01T05:00:46.108101Z",
+  "generated": "2025-12-01T05:00:46.012060Z",
+  "next_refresh": "2025-12-01T10:00:46.012060Z",
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "name": "Quebec City",
-        "country": "Canada",
-        "code": 73,
-        "temperature": -0.9,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.2081,
-          46.8139
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Mississauga",
-        "country": "Canada",
-        "code": 73,
-        "temperature": -0.6,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.65,
-          43.6
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Rochester",
+        "name": "Cleveland",
         "country": "United States",
-        "code": 75,
-        "temperature": 0.1,
+        "code": 73,
+        "temperature": -2.6,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.6162,
-          43.168
+          -81.6805,
+          41.4764
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Novokuznetsk",
-        "country": "Russia",
-        "code": 71,
-        "temperature": -20.2,
+        "name": "Yıldırım",
+        "country": "Turkey",
+        "code": 85,
+        "temperature": 3.8,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          87.1333,
-          53.7667
+          29.0821,
+          40.11
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Surgut",
+        "name": "Kursk",
         "country": "Russia",
         "code": 77,
+        "temperature": 0.5,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.1833,
+          51.7167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jining",
+        "country": "China",
+        "code": 71,
+        "temperature": -9.1,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.08,
+          41.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oulu",
+        "country": "Finland",
+        "code": 73,
+        "temperature": -0.3,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4719,
+          65.0142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Babruysk",
+        "country": "Belarus",
+        "code": 77,
+        "temperature": 0.2,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2333,
+          53.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Erie",
+        "country": "United States",
+        "code": 73,
         "temperature": 0.1,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          73.4333,
-          61.25
+          -80.0733,
+          42.1167
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Vaughan",
-        "country": "Canada",
+        "name": "Yuzhno-Sakhalinsk",
+        "country": "Russia",
         "code": 73,
-        "temperature": -0.6,
+        "temperature": 0.8,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.5,
-          43.8333
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Nizhnevartovsk",
-        "country": "Russia",
-        "code": 71,
-        "temperature": -1.5,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.6,
-          60.95
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Blagoveshchensk",
-        "country": "Russia",
-        "code": 71,
-        "temperature": -16.9,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          127.5333,
-          50.25
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Biysk",
-        "country": "Russia",
-        "code": 71,
-        "temperature": -12.1,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          85.2167,
-          52.5333
+          142.7333,
+          46.9667
         ]
       }
     },
@@ -162,7 +145,7 @@
         "name": "Norilsk",
         "country": "Russia",
         "code": 71,
-        "temperature": -18.2,
+        "temperature": -18.0,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -176,68 +159,34 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Barrie",
-        "country": "Canada",
-        "code": 73,
-        "temperature": -0.8,
+        "name": "Fukang",
+        "country": "China",
+        "code": 71,
+        "temperature": -4.4,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.6769,
-          44.3711
+          87.9536,
+          44.1646
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Lévis",
-        "country": "Canada",
-        "code": 73,
-        "temperature": -1.0,
+        "name": "Zhangbei",
+        "country": "China",
+        "code": 71,
+        "temperature": -11.6,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.1833,
-          46.8
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Guelph",
-        "country": "Canada",
-        "code": 73,
-        "temperature": -0.6,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.25,
-          43.55
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Trois-Rivières",
-        "country": "Canada",
-        "code": 73,
-        "temperature": -0.2,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -72.55,
-          46.35
+          114.7122,
+          41.158
         ]
       }
     }
