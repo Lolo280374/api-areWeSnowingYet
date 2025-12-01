@@ -1,49 +1,15 @@
 {
   "type": "FeatureCollection",
-  "generated": "2025-11-30T20:00:46.098150Z",
-  "next_refresh": "2025-12-01T01:00:46.098150Z",
+  "generated": "2025-12-01T00:00:46.108101Z",
+  "next_refresh": "2025-12-01T05:00:46.108101Z",
   "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Montréal",
-        "country": "Canada",
-        "code": 73,
-        "temperature": 0.2,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.5617,
-          45.5089
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Ottawa",
-        "country": "Canada",
-        "code": 73,
-        "temperature": -0.1,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.695,
-          45.4247
-        ]
-      }
-    },
     {
       "type": "Feature",
       "properties": {
         "name": "Quebec City",
         "country": "Canada",
         "code": 73,
-        "temperature": -2.0,
+        "temperature": -0.9,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -57,85 +23,119 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Ogden",
-        "country": "United States",
-        "code": 73,
-        "temperature": -0.1,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.9682,
-          41.2279
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Laval",
+        "name": "Mississauga",
         "country": "Canada",
         "code": 73,
-        "temperature": -0.1,
+        "temperature": -0.6,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.75,
-          45.5833
+          -79.65,
+          43.6
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Gatineau",
-        "country": "Canada",
-        "code": 73,
-        "temperature": -0.0,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.65,
-          45.4833
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Longueuil",
-        "country": "Canada",
-        "code": 73,
-        "temperature": 0.3,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.5167,
-          45.5333
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Kalamazoo",
+        "name": "Rochester",
         "country": "United States",
         "code": 75,
-        "temperature": 0.2,
+        "temperature": 0.1,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -85.5882,
-          42.2749
+          -77.6162,
+          43.168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Novokuznetsk",
+        "country": "Russia",
+        "code": 71,
+        "temperature": -20.2,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.1333,
+          53.7667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Surgut",
+        "country": "Russia",
+        "code": 77,
+        "temperature": 0.1,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4333,
+          61.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vaughan",
+        "country": "Canada",
+        "code": 73,
+        "temperature": -0.6,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5,
+          43.8333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nizhnevartovsk",
+        "country": "Russia",
+        "code": 71,
+        "temperature": -1.5,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6,
+          60.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blagoveshchensk",
+        "country": "Russia",
+        "code": 71,
+        "temperature": -16.9,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.5333,
+          50.25
         ]
       }
     },
@@ -145,7 +145,7 @@
         "name": "Biysk",
         "country": "Russia",
         "code": 71,
-        "temperature": -13.9,
+        "temperature": -12.1,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -162,7 +162,7 @@
         "name": "Norilsk",
         "country": "Russia",
         "code": 71,
-        "temperature": -17.8,
+        "temperature": -18.2,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -176,17 +176,17 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Muskegon",
-        "country": "United States",
+        "name": "Barrie",
+        "country": "Canada",
         "code": 73,
-        "temperature": 0.0,
+        "temperature": -0.8,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.2562,
-          43.2281
+          -79.6769,
+          44.3711
         ]
       }
     },
@@ -196,7 +196,7 @@
         "name": "Lévis",
         "country": "Canada",
         "code": 73,
-        "temperature": -2.1,
+        "temperature": -1.0,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -210,10 +210,27 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Guelph",
+        "country": "Canada",
+        "code": 73,
+        "temperature": -0.6,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.25,
+          43.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Trois-Rivières",
         "country": "Canada",
         "code": 73,
-        "temperature": -1.1,
+        "temperature": -0.2,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -221,40 +238,6 @@
         "coordinates": [
           -72.55,
           46.35
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "West Valley City",
-        "country": "United States",
-        "code": 73,
-        "temperature": 0.9,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.0123,
-          40.6886
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Kanata",
-        "country": "Canada",
-        "code": 73,
-        "temperature": 0.0,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.9,
-          45.3333
         ]
       }
     }
