@@ -1,56 +1,39 @@
 {
   "type": "FeatureCollection",
-  "generated": "2025-12-02T01:00:46.112655Z",
-  "next_refresh": "2025-12-02T06:00:46.112655Z",
+  "generated": "2025-12-02T07:00:46.012222Z",
+  "next_refresh": "2025-12-02T12:00:46.012222Z",
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "name": "Weihai",
-        "country": "China",
-        "code": 71,
-        "temperature": -0.8,
+        "name": "Moscow",
+        "country": "Russia",
+        "code": 77,
+        "temperature": 0.4,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.1205,
-          37.5133
+          37.6175,
+          55.7506
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Weifang",
-        "country": "China",
+        "name": "Sapporo",
+        "country": "Japan",
         "code": 71,
-        "temperature": 1.6,
+        "temperature": 0.6,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.162,
-          36.708
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Yantai",
-        "country": "China",
-        "code": 71,
-        "temperature": -0.3,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.4478,
-          37.4646
+          141.3544,
+          43.0619
         ]
       }
     },
@@ -60,7 +43,7 @@
         "name": "Indianapolis",
         "country": "United States",
         "code": 73,
-        "temperature": -3.1,
+        "temperature": -1.9,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -74,34 +57,34 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Novosibirsk",
-        "country": "Russia",
-        "code": 71,
-        "temperature": -0.6,
+        "name": "Cincinnati",
+        "country": "United States",
+        "code": 73,
+        "temperature": -1.7,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          82.95,
-          55.05
+          -84.506,
+          39.1413
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Shuangyashan",
-        "country": "China",
-        "code": 71,
-        "temperature": -12.8,
+        "name": "Columbus",
+        "country": "United States",
+        "code": 73,
+        "temperature": -1.8,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          131.1416,
-          46.6762
+          -82.9855,
+          39.9862
         ]
       }
     },
@@ -111,7 +94,7 @@
         "name": "Krasnoyarsk",
         "country": "Russia",
         "code": 71,
-        "temperature": -7.9,
+        "temperature": -5.8,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -125,102 +108,68 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Qingzhou",
+        "name": "Louisville",
+        "country": "United States",
+        "code": 75,
+        "temperature": 0.4,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6485,
+          38.1663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gaomi",
         "country": "China",
         "code": 71,
-        "temperature": -0.1,
+        "temperature": 1.9,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          118.4796,
-          36.6853
+          119.75,
+          36.3833
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Wuchang",
-        "country": "China",
-        "code": 71,
-        "temperature": -14.4,
+        "name": "Brampton",
+        "country": "Canada",
+        "code": 73,
+        "temperature": -2.7,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.158,
-          44.924
+          -79.7667,
+          43.6833
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Yushu",
-        "country": "China",
-        "code": 71,
-        "temperature": -14.6,
+        "name": "Akron",
+        "country": "United States",
+        "code": 73,
+        "temperature": -3.0,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.55,
-          44.826
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Kuiju",
-        "country": "China",
-        "code": 71,
-        "temperature": 1.4,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          119.4,
-          36.8667
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Tomsk",
-        "country": "Russia",
-        "code": 71,
-        "temperature": -1.4,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          84.9667,
-          56.5
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Kemerovo",
-        "country": "Russia",
-        "code": 71,
-        "temperature": -2.5,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          86.0667,
-          55.3667
+          -81.5219,
+          41.0798
         ]
       }
     },
@@ -230,7 +179,7 @@
         "name": "Novokuznetsk",
         "country": "Russia",
         "code": 71,
-        "temperature": -3.2,
+        "temperature": -1.9,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -247,7 +196,7 @@
         "name": "Ryazan",
         "country": "Russia",
         "code": 77,
-        "temperature": -0.2,
+        "temperature": -0.6,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -264,7 +213,7 @@
         "name": "Lipetsk",
         "country": "Russia",
         "code": 77,
-        "temperature": -0.9,
+        "temperature": -1.1,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -278,68 +227,34 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Rushan",
+        "name": "Shangzhi",
         "country": "China",
         "code": 71,
-        "temperature": -0.8,
+        "temperature": -15.1,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.505,
-          36.87
+          127.965,
+          45.207
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Shulan",
+        "name": "Zhuangyuan",
         "country": "China",
         "code": 71,
-        "temperature": -14.6,
+        "temperature": -0.3,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.9655,
-          44.4059
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Vladimir",
-        "country": "Russia",
-        "code": 77,
-        "temperature": 0.1,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          40.4058,
-          56.1286
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Fort Wayne",
-        "country": "United States",
-        "code": 73,
-        "temperature": -3.8,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.1436,
-          41.0888
+          120.829,
+          37.3056
         ]
       }
     },
@@ -348,8 +263,8 @@
       "properties": {
         "name": "Kaluga",
         "country": "Russia",
-        "code": 71,
-        "temperature": -0.1,
+        "code": 77,
+        "temperature": 0.2,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -363,17 +278,34 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Smolensk",
-        "country": "Russia",
-        "code": 77,
-        "temperature": 0.1,
+        "name": "Lexington",
+        "country": "United States",
+        "code": 75,
+        "temperature": -0.2,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.0453,
-          54.7828
+          -84.4587,
+          38.0423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Youngstown",
+        "country": "United States",
+        "code": 73,
+        "temperature": -0.6,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6463,
+          41.0993
         ]
       }
     },
@@ -382,8 +314,8 @@
       "properties": {
         "name": "Orël",
         "country": "Russia",
-        "code": 77,
-        "temperature": 0.1,
+        "code": 71,
+        "temperature": 0.2,
         "temperature_unit": "°C"
       },
       "geometry": {
