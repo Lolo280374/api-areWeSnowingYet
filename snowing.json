@@ -1,141 +1,56 @@
 {
   "type": "FeatureCollection",
-  "generated": "2025-12-02T19:00:46.025102Z",
-  "next_refresh": "2025-12-03T00:00:46.025102Z",
+  "generated": "2025-12-03T01:00:46.020640Z",
+  "next_refresh": "2025-12-03T06:00:46.020640Z",
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "name": "Weihai",
-        "country": "China",
-        "code": 85,
-        "temperature": -0.9,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          122.1205,
-          37.5133
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Cleveland",
-        "country": "United States",
-        "code": 73,
+        "name": "Nizhniy Novgorod",
+        "country": "Russia",
+        "code": 77,
         "temperature": 0.0,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6805,
-          41.4764
+          44.0075,
+          56.3269
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Edmonton",
-        "country": "Canada",
-        "code": 71,
-        "temperature": -5.1,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.4903,
-          53.5344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Krasnoyarsk",
+        "name": "Ufa",
         "country": "Russia",
         "code": 71,
-        "temperature": -3.0,
+        "temperature": -0.3,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          92.8719,
-          56.0089
+          55.9475,
+          54.7261
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Hartford",
-        "country": "United States",
-        "code": 75,
-        "temperature": -0.9,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -72.6834,
-          41.7661
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Albany",
-        "country": "United States",
-        "code": 75,
-        "temperature": -2.2,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.7987,
-          42.6664
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Ryazan",
+        "name": "Perm",
         "country": "Russia",
         "code": 77,
-        "temperature": -0.5,
+        "temperature": 0.2,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          39.7425,
-          54.63
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Cheboksary",
-        "country": "Russia",
-        "code": 77,
-        "temperature": -0.1,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.2333,
-          56.15
+          56.3167,
+          58.0
         ]
       }
     },
@@ -145,7 +60,7 @@
         "name": "Worcester",
         "country": "United States",
         "code": 75,
-        "temperature": -1.5,
+        "temperature": -1.1,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -159,102 +74,68 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Springfield",
-        "country": "United States",
-        "code": 75,
+        "name": "Ulan-Ude",
+        "country": "Russia",
+        "code": 71,
+        "temperature": -24.1,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6,
+          51.8333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Surgut",
+        "country": "Russia",
+        "code": 71,
+        "temperature": -3.8,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4333,
+          61.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pavlodar",
+        "country": "Kazakhstan",
+        "code": 77,
         "temperature": -0.3,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.5395,
-          42.1155
+          76.95,
+          52.3
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Zhuangyuan",
-        "country": "China",
-        "code": 85,
-        "temperature": -3.0,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.829,
-          37.3056
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Scranton",
-        "country": "United States",
-        "code": 73,
-        "temperature": -0.7,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.6649,
-          41.4044
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Vladimir",
+        "name": "Saransk",
         "country": "Russia",
         "code": 77,
-        "temperature": -0.0,
+        "temperature": -1.3,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          40.4058,
-          56.1286
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Arkhangelsk",
-        "country": "Russia",
-        "code": 85,
-        "temperature": 0.2,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          40.5375,
-          64.5431
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Poughkeepsie",
-        "country": "United States",
-        "code": 75,
-        "temperature": -0.9,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.9211,
-          41.695
+          45.1833,
+          54.1833
         ]
       }
     }
