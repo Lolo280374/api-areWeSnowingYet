@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
-  "generated": "2025-12-05T01:00:48.094503Z",
-  "next_refresh": "2025-12-05T06:00:48.094503Z",
+  "generated": "2025-12-05T07:01:12.926757Z",
+  "next_refresh": "2025-12-05T12:01:12.926757Z",
   "features": [
     {
       "type": "Feature",
@@ -9,7 +9,7 @@
         "name": "Munich",
         "country": "Germany",
         "code": 71,
-        "temperature": 0.3,
+        "temperature": 0.4,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -26,7 +26,7 @@
         "name": "Novosibirsk",
         "country": "Russia",
         "code": 71,
-        "temperature": -2.4,
+        "temperature": -1.1,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -40,27 +40,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Nashville",
-        "country": "United States",
-        "code": 73,
-        "temperature": 0.2,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.7842,
-          36.1715
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Krasnoyarsk",
         "country": "Russia",
         "code": 71,
-        "temperature": -4.4,
+        "temperature": -2.5,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -74,17 +57,34 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Perm",
-        "country": "Russia",
-        "code": 77,
-        "temperature": -0.8,
+        "name": "Richmond",
+        "country": "United States",
+        "code": 73,
+        "temperature": 0.0,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          56.3167,
-          58.0
+          -77.4756,
+          37.5295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kumila",
+        "country": "Pakistan",
+        "code": 71,
+        "temperature": -6.2,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.5,
+          35.25
         ]
       }
     },
@@ -94,7 +94,7 @@
         "name": "Barnaul",
         "country": "Russia",
         "code": 71,
-        "temperature": -1.5,
+        "temperature": -0.4,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -111,7 +111,7 @@
         "name": "Tomsk",
         "country": "Russia",
         "code": 71,
-        "temperature": -5.1,
+        "temperature": -2.1,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -125,10 +125,27 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Kemerovo",
+        "country": "Russia",
+        "code": 71,
+        "temperature": -1.0,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.0667,
+          55.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Novokuznetsk",
         "country": "Russia",
         "code": 71,
-        "temperature": -2.3,
+        "temperature": -0.4,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -144,8 +161,8 @@
       "properties": {
         "name": "Öskemen",
         "country": "Kazakhstan",
-        "code": 71,
-        "temperature": -1.6,
+        "code": 73,
+        "temperature": -0.4,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -162,7 +179,7 @@
         "name": "Semey",
         "country": "Kazakhstan",
         "code": 71,
-        "temperature": -1.0,
+        "temperature": 0.8,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -179,7 +196,7 @@
         "name": "Pavlodar",
         "country": "Kazakhstan",
         "code": 71,
-        "temperature": -0.4,
+        "temperature": 0.3,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -187,23 +204,6 @@
         "coordinates": [
           76.95,
           52.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Saransk",
-        "country": "Russia",
-        "code": 85,
-        "temperature": 0.1,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          45.1833,
-          54.1833
         ]
       }
     }
