@@ -1,39 +1,56 @@
 {
   "type": "FeatureCollection",
-  "generated": "2025-12-04T19:01:05.223457Z",
-  "next_refresh": "2025-12-05T00:01:05.223457Z",
+  "generated": "2025-12-05T01:00:48.094503Z",
+  "next_refresh": "2025-12-05T06:00:48.094503Z",
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "name": "Sapporo",
-        "country": "Japan",
+        "name": "Munich",
+        "country": "Germany",
         "code": 71,
-        "temperature": -6.4,
+        "temperature": 0.3,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          141.3544,
-          43.0619
+          11.575,
+          48.1375
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Edmonton",
-        "country": "Canada",
+        "name": "Novosibirsk",
+        "country": "Russia",
         "code": 71,
-        "temperature": 0.8,
+        "temperature": -2.4,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -113.4903,
-          53.5344
+          82.95,
+          55.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nashville",
+        "country": "United States",
+        "code": 73,
+        "temperature": 0.2,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7842,
+          36.1715
         ]
       }
     },
@@ -43,7 +60,7 @@
         "name": "Krasnoyarsk",
         "country": "Russia",
         "code": 71,
-        "temperature": -3.2,
+        "temperature": -4.4,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -57,10 +74,27 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Perm",
+        "country": "Russia",
+        "code": 77,
+        "temperature": -0.8,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.3167,
+          58.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Barnaul",
         "country": "Russia",
         "code": 71,
-        "temperature": -1.3,
+        "temperature": -1.5,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -74,10 +108,27 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Tomsk",
+        "country": "Russia",
+        "code": 71,
+        "temperature": -5.1,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9667,
+          56.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Novokuznetsk",
         "country": "Russia",
         "code": 71,
-        "temperature": -1.5,
+        "temperature": -2.3,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -94,7 +145,7 @@
         "name": "Öskemen",
         "country": "Kazakhstan",
         "code": 71,
-        "temperature": -2.0,
+        "temperature": -1.6,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -108,17 +159,17 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Nagano",
-        "country": "Japan",
-        "code": 73,
-        "temperature": -0.9,
+        "name": "Semey",
+        "country": "Kazakhstan",
+        "code": 71,
+        "temperature": -1.0,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          138.1947,
-          36.6486
+          80.2667,
+          50.4333
         ]
       }
     },
@@ -127,8 +178,8 @@
       "properties": {
         "name": "Pavlodar",
         "country": "Kazakhstan",
-        "code": 73,
-        "temperature": 0.1,
+        "code": 71,
+        "temperature": -0.4,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -142,17 +193,17 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Asahikawa",
-        "country": "Japan",
-        "code": 71,
-        "temperature": -5.1,
+        "name": "Saransk",
+        "country": "Russia",
+        "code": 85,
+        "temperature": 0.1,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          142.3667,
-          43.7667
+          45.1833,
+          54.1833
         ]
       }
     }
