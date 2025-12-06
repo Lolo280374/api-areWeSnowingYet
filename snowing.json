@@ -1,73 +1,39 @@
 {
   "type": "FeatureCollection",
-  "generated": "2025-12-06T01:01:17.625167Z",
-  "next_refresh": "2025-12-06T06:01:17.625167Z",
+  "generated": "2025-12-06T07:03:21.623149Z",
+  "next_refresh": "2025-12-06T12:03:21.623149Z",
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "name": "Calgary",
+        "name": "Edmonton",
         "country": "Canada",
-        "code": 73,
-        "temperature": -9.4,
+        "code": 71,
+        "temperature": -17.0,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -114.0667,
-          51.05
+          -113.4903,
+          53.5344
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Perm",
-        "country": "Russia",
-        "code": 77,
-        "temperature": -0.8,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          56.3167,
-          58.0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Tolyatti",
-        "country": "Russia",
-        "code": 85,
-        "temperature": 0.1,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.4222,
-          53.5089
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Penza",
+        "name": "Izhevsk",
         "country": "Russia",
         "code": 71,
-        "temperature": 0.4,
+        "temperature": -0.9,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          45.0,
-          53.2
+          53.1833,
+          56.8333
         ]
       }
     },
@@ -76,8 +42,8 @@
       "properties": {
         "name": "Kirov",
         "country": "Russia",
-        "code": 71,
-        "temperature": 0.0,
+        "code": 77,
+        "temperature": 0.2,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -91,17 +57,34 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Saransk",
+        "name": "Ulan-Ude",
         "country": "Russia",
-        "code": 77,
-        "temperature": 0.3,
+        "code": 71,
+        "temperature": -6.4,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          45.1833,
-          54.1833
+          107.6,
+          51.8333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arkhangelsk",
+        "country": "Russia",
+        "code": 71,
+        "temperature": -2.8,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.5375,
+          64.5431
         ]
       }
     }
