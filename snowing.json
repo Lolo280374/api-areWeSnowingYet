@@ -1,22 +1,56 @@
 {
   "type": "FeatureCollection",
-  "generated": "2025-12-06T07:03:21.623149Z",
-  "next_refresh": "2025-12-06T12:03:21.623149Z",
+  "generated": "2025-12-06T13:01:29.818502Z",
+  "next_refresh": "2025-12-06T18:01:29.818502Z",
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "name": "Edmonton",
-        "country": "Canada",
-        "code": 71,
-        "temperature": -17.0,
+        "name": "Ulaanbaatar",
+        "country": "Mongolia",
+        "code": 85,
+        "temperature": -19.0,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -113.4903,
-          53.5344
+          106.9055,
+          47.9214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samara",
+        "country": "Russia",
+        "code": 71,
+        "temperature": 0.1,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.1408,
+          53.2028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perm",
+        "country": "Russia",
+        "code": 77,
+        "temperature": -0.2,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.3167,
+          58.0
         ]
       }
     },
@@ -26,7 +60,7 @@
         "name": "Izhevsk",
         "country": "Russia",
         "code": 71,
-        "temperature": -0.9,
+        "temperature": -0.6,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -34,6 +68,40 @@
         "coordinates": [
           53.1833,
           56.8333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orenburg",
+        "country": "Russia",
+        "code": 71,
+        "temperature": -0.5,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.1,
+          51.7833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cheboksary",
+        "country": "Russia",
+        "code": 71,
+        "temperature": 0.8,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2333,
+          56.15
         ]
       }
     },
@@ -57,34 +125,34 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Ulan-Ude",
-        "country": "Russia",
-        "code": 71,
-        "temperature": -6.4,
+        "name": "Dunhua",
+        "country": "China",
+        "code": 85,
+        "temperature": -0.6,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6,
-          51.8333
+          128.2333,
+          43.3667
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Arkhangelsk",
+        "name": "Nizhniy Tagil",
         "country": "Russia",
         "code": 71,
-        "temperature": -2.8,
+        "temperature": -0.5,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          40.5375,
-          64.5431
+          59.9667,
+          57.9167
         ]
       }
     }
