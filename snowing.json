@@ -1,39 +1,39 @@
 {
   "type": "FeatureCollection",
-  "generated": "2025-12-06T13:01:29.818502Z",
-  "next_refresh": "2025-12-06T18:01:29.818502Z",
+  "generated": "2025-12-06T19:01:12.433893Z",
+  "next_refresh": "2025-12-07T00:01:12.433893Z",
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "name": "Ulaanbaatar",
-        "country": "Mongolia",
-        "code": 85,
-        "temperature": -19.0,
+        "name": "Yekaterinburg",
+        "country": "Russia",
+        "code": 71,
+        "temperature": -2.0,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          106.9055,
-          47.9214
+          60.6128,
+          56.8356
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Samara",
+        "name": "Kazan",
         "country": "Russia",
-        "code": 71,
-        "temperature": 0.1,
+        "code": 77,
+        "temperature": 0.3,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.1408,
-          53.2028
+          49.1089,
+          55.7964
         ]
       }
     },
@@ -43,7 +43,7 @@
         "name": "Perm",
         "country": "Russia",
         "code": 77,
-        "temperature": -0.2,
+        "temperature": -0.5,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -57,17 +57,34 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Izhevsk",
+        "name": "Tomsk",
         "country": "Russia",
         "code": 71,
-        "temperature": -0.6,
+        "temperature": -19.0,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.1833,
-          56.8333
+          84.9667,
+          56.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kemerovo",
+        "country": "Russia",
+        "code": 71,
+        "temperature": -15.5,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.0667,
+          55.3667
         ]
       }
     },
@@ -77,7 +94,7 @@
         "name": "Orenburg",
         "country": "Russia",
         "code": 71,
-        "temperature": -0.5,
+        "temperature": -0.4,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -91,51 +108,34 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Cheboksary",
-        "country": "Russia",
-        "code": 71,
-        "temperature": 0.8,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.2333,
-          56.15
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Kirov",
-        "country": "Russia",
-        "code": 77,
-        "temperature": 0.2,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.6833,
-          58.6
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Dunhua",
-        "country": "China",
-        "code": 85,
+        "name": "Laval",
+        "country": "Canada",
+        "code": 73,
         "temperature": -0.6,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          128.2333,
-          43.3667
+          -73.75,
+          45.5833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pavlodar",
+        "country": "Kazakhstan",
+        "code": 71,
+        "temperature": -2.7,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.95,
+          52.3
         ]
       }
     },
@@ -145,7 +145,7 @@
         "name": "Nizhniy Tagil",
         "country": "Russia",
         "code": 71,
-        "temperature": -0.5,
+        "temperature": -5.9,
         "temperature_unit": "°C"
       },
       "geometry": {
