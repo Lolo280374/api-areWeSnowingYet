@@ -1,32 +1,15 @@
 {
   "type": "FeatureCollection",
-  "generated": "2025-12-11T01:00:46.190906Z",
-  "next_refresh": "2025-12-11T06:00:46.190906Z",
+  "generated": "2025-12-11T07:00:51.215193Z",
+  "next_refresh": "2025-12-11T12:00:51.215193Z",
   "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Ürümqi",
-        "country": "China",
-        "code": 71,
-        "temperature": -10.1,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          87.6125,
-          43.8225
-        ]
-      }
-    },
     {
       "type": "Feature",
       "properties": {
         "name": "Montréal",
         "country": "Canada",
         "code": 73,
-        "temperature": -4.6,
+        "temperature": -5.0,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -43,7 +26,7 @@
         "name": "Sapporo",
         "country": "Japan",
         "code": 71,
-        "temperature": -2.2,
+        "temperature": -5.5,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -57,34 +40,34 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Kazan",
-        "country": "Russia",
-        "code": 71,
-        "temperature": -4.7,
+        "name": "Calgary",
+        "country": "Canada",
+        "code": 73,
+        "temperature": -7.8,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.1089,
-          55.7964
+          -114.0667,
+          51.05
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Ottawa",
-        "country": "Canada",
-        "code": 73,
-        "temperature": -5.1,
+        "name": "Krasnoyarsk",
+        "country": "Russia",
+        "code": 71,
+        "temperature": -15.1,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.695,
-          45.4247
+          92.8719,
+          56.0089
         ]
       }
     },
@@ -94,7 +77,7 @@
         "name": "Perm",
         "country": "Russia",
         "code": 71,
-        "temperature": -8.4,
+        "temperature": -8.6,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -111,7 +94,7 @@
         "name": "Volgograd",
         "country": "Russia",
         "code": 77,
-        "temperature": -0.2,
+        "temperature": -0.6,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -125,78 +108,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Saratov",
-        "country": "Russia",
-        "code": 71,
-        "temperature": -3.6,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          46.035,
-          51.53
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Quebec City",
-        "country": "Canada",
-        "code": 73,
-        "temperature": -4.0,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.2081,
-          46.8139
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Rochester",
-        "country": "United States",
-        "code": 73,
-        "temperature": 0.5,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.6162,
-          43.168
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Turpan",
-        "country": "China",
-        "code": 71,
-        "temperature": -0.9,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.1895,
-          42.9512
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Izhevsk",
         "country": "Russia",
         "code": 71,
-        "temperature": -7.7,
+        "temperature": -7.4,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -210,68 +125,51 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Ulyanovsk",
-        "country": "Russia",
-        "code": 71,
-        "temperature": -4.7,
+        "name": "Kumul",
+        "country": "China",
+        "code": 73,
+        "temperature": -1.0,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          48.3667,
-          54.3167
+          93.5151,
+          42.8193
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Kirov",
-        "country": "Russia",
-        "code": 71,
-        "temperature": -4.2,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.6833,
-          58.6
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Laval",
+        "name": "London",
         "country": "Canada",
         "code": 73,
-        "temperature": -5.2,
+        "temperature": -5.9,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.75,
-          45.5833
+          -81.2497,
+          42.9836
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Yan’an Beilu",
-        "country": "China",
-        "code": 71,
-        "temperature": -12.3,
+        "name": "Syracuse",
+        "country": "United States",
+        "code": 75,
+        "temperature": -2.0,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          87.2674,
-          44.0144
+          -76.1437,
+          43.0407
         ]
       }
     },
@@ -295,10 +193,44 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Ivanovo",
+        "country": "Russia",
+        "code": 73,
+        "temperature": 0.0,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.9819,
+          56.9967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vladimir",
+        "country": "Russia",
+        "code": 71,
+        "temperature": -0.1,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.4058,
+          56.1286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Arkhangelsk",
         "country": "Russia",
         "code": 71,
-        "temperature": -0.6,
+        "temperature": 0.1,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -315,7 +247,7 @@
         "name": "Asahikawa",
         "country": "Japan",
         "code": 71,
-        "temperature": -1.8,
+        "temperature": -4.2,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -323,40 +255,6 @@
         "coordinates": [
           142.3667,
           43.7667
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Volzhskiy",
-        "country": "Russia",
-        "code": 77,
-        "temperature": -0.4,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          44.7417,
-          48.8056
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Vologda",
-        "country": "Russia",
-        "code": 71,
-        "temperature": 0.6,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          39.9,
-          59.2167
         ]
       }
     }
