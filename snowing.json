@@ -1,32 +1,15 @@
 {
   "type": "FeatureCollection",
-  "generated": "2025-12-12T13:00:57.312151Z",
-  "next_refresh": "2025-12-12T18:00:57.312151Z",
+  "generated": "2025-12-12T19:00:32.203977Z",
+  "next_refresh": "2025-12-13T00:00:32.203977Z",
   "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Beijing",
-        "country": "China",
-        "code": 71,
-        "temperature": -4.1,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          116.3975,
-          39.9067
-        ]
-      }
-    },
     {
       "type": "Feature",
       "properties": {
         "name": "Linyi",
         "country": "China",
         "code": 71,
-        "temperature": -1.0,
+        "temperature": -0.9,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -40,61 +23,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Baoding",
-        "country": "China",
-        "code": 71,
-        "temperature": -1.9,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          115.464,
-          38.874
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Tianjin",
-        "country": "China",
-        "code": 71,
-        "temperature": -4.1,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          117.2054,
-          39.1336
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Zhoukou",
-        "country": "China",
-        "code": 71,
-        "temperature": -0.2,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          114.7014,
-          33.6367
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Tongshan",
         "country": "China",
         "code": 71,
-        "temperature": 0.5,
+        "temperature": 0.2,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -108,44 +40,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Heze",
-        "country": "China",
-        "code": 71,
-        "temperature": -1.1,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          115.4796,
-          35.2343
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Jining",
-        "country": "China",
-        "code": 71,
-        "temperature": -1.3,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          116.5871,
-          35.4151
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Fuyang",
         "country": "China",
-        "code": 73,
-        "temperature": 0.4,
+        "code": 77,
+        "temperature": 0.2,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -159,170 +57,34 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Shangqiu",
+        "name": "Dalian",
         "country": "China",
         "code": 71,
-        "temperature": -0.9,
+        "temperature": -1.3,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.656,
-          34.415
+          121.6,
+          38.9
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cangzhou",
+        "name": "Qingdao",
         "country": "China",
         "code": 71,
-        "temperature": -1.1,
+        "temperature": 0.3,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.8387,
-          38.3047
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Zhumadian",
-        "country": "China",
-        "code": 71,
-        "temperature": -0.4,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          114.022,
-          33.014
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Xinyang",
-        "country": "China",
-        "code": 71,
-        "temperature": -0.1,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          114.091,
-          32.149
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Liaocheng",
-        "country": "China",
-        "code": 71,
-        "temperature": -1.4,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          115.9852,
-          36.4559
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Nangandao",
-        "country": "China",
-        "code": 71,
-        "temperature": -1.1,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          113.9268,
-          35.3036
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Zhengzhou",
-        "country": "China",
-        "code": 71,
-        "temperature": -1.2,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          113.684,
-          34.764
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Jinan",
-        "country": "China",
-        "code": 71,
-        "temperature": -1.2,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          117.0207,
-          36.6702
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Dezhou",
-        "country": "China",
-        "code": 71,
-        "temperature": -2.0,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          116.359,
-          37.436
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Tai’an",
-        "country": "China",
-        "code": 71,
-        "temperature": -2.2,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          117.087,
-          36.202
+          120.3827,
+          36.0669
         ]
       }
     },
@@ -346,34 +108,34 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Bozhou",
+        "name": "Suqian",
         "country": "China",
         "code": 71,
-        "temperature": -0.4,
+        "temperature": 0.9,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.7786,
-          33.8463
+          118.275,
+          33.963
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Huanglongsi",
+        "name": "Xinpu",
         "country": "China",
         "code": 71,
-        "temperature": -0.8,
+        "temperature": 0.9,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          114.345,
-          34.795
+          119.2214,
+          34.5966
         ]
       }
     },
@@ -382,8 +144,8 @@
       "properties": {
         "name": "Langfang",
         "country": "China",
-        "code": 71,
-        "temperature": -3.8,
+        "code": 77,
+        "temperature": -4.8,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -397,95 +159,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Jiangguanchi",
-        "country": "China",
-        "code": 71,
-        "temperature": -0.6,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          113.852,
-          34.037
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Hengshui",
-        "country": "China",
-        "code": 71,
-        "temperature": -0.9,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          115.669,
-          37.739
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Zhangjiakou",
-        "country": "China",
-        "code": 71,
-        "temperature": -6.6,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          114.886,
-          40.769
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Shijiazhuang",
-        "country": "China",
-        "code": 71,
-        "temperature": -3.2,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          114.51,
-          38.0425
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Binzhou",
-        "country": "China",
-        "code": 71,
-        "temperature": -1.6,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          117.971,
-          37.383
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Zaozhuang",
         "country": "China",
         "code": 71,
-        "temperature": 0.1,
+        "temperature": -0.2,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -499,85 +176,119 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Puyang",
+        "name": "Qinhuangdao",
         "country": "China",
         "code": 71,
-        "temperature": -1.1,
+        "temperature": -5.4,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.0292,
-          35.7627
+          119.5202,
+          39.8882
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Lanzhou",
+        "name": "Chaoyang",
         "country": "China",
         "code": 71,
-        "temperature": -7.8,
+        "temperature": -9.3,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.8268,
-          36.0606
+          120.453,
+          41.571
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Hohhot",
-        "country": "China",
-        "code": 71,
-        "temperature": -11.4,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          111.749,
-          40.842
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Zibo",
-        "country": "China",
-        "code": 71,
-        "temperature": -2.2,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          118.055,
-          36.8138
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Luohe",
+        "name": "Rizhao",
         "country": "China",
         "code": 85,
-        "temperature": -0.3,
+        "temperature": -0.6,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          114.0166,
-          33.5804
+          119.527,
+          35.417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jinzhou",
+        "country": "China",
+        "code": 71,
+        "temperature": -9.0,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.148,
+          41.129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Weifang",
+        "country": "China",
+        "code": 71,
+        "temperature": -2.3,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.162,
+          36.708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Huludao",
+        "country": "China",
+        "code": 71,
+        "temperature": -8.4,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.837,
+          40.711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lianshan",
+        "country": "China",
+        "code": 71,
+        "temperature": -8.4,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.828,
+          40.7523
         ]
       }
     },
@@ -587,7 +298,7 @@
         "name": "Huaibei",
         "country": "China",
         "code": 71,
-        "temperature": 0.3,
+        "temperature": 0.1,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -604,7 +315,7 @@
         "name": "Sapporo",
         "country": "Japan",
         "code": 71,
-        "temperature": -9.9,
+        "temperature": -9.1,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -618,34 +329,34 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Abhepur",
-        "country": "India",
+        "name": "Shuyangzha",
+        "country": "China",
         "code": 71,
-        "temperature": -3.0,
+        "temperature": -0.2,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.38,
-          39.41
+          118.7734,
+          34.1299
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Chengtangcun",
+        "name": "Fuxin",
         "country": "China",
         "code": 71,
-        "temperature": -0.7,
+        "temperature": -10.6,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          117.15,
-          35.0833
+          121.67,
+          42.022
         ]
       }
     },
@@ -655,7 +366,7 @@
         "name": "Pizhou",
         "country": "China",
         "code": 71,
-        "temperature": 0.2,
+        "temperature": -0.5,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -672,7 +383,7 @@
         "name": "Xintai",
         "country": "China",
         "code": 71,
-        "temperature": -2.1,
+        "temperature": -2.0,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -686,27 +397,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Kazan",
-        "country": "Russia",
-        "code": 77,
-        "temperature": 0.2,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.1089,
-          55.7964
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Laiwu",
         "country": "China",
         "code": 71,
-        "temperature": -1.9,
+        "temperature": -2.2,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -723,7 +417,7 @@
         "name": "Yongcheng",
         "country": "China",
         "code": 71,
-        "temperature": 0.1,
+        "temperature": -0.2,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -737,51 +431,34 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Xinhualu",
+        "name": "Pingdu",
         "country": "China",
         "code": 71,
-        "temperature": -1.1,
+        "temperature": -0.8,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          113.7402,
-          34.3964
+          119.9884,
+          36.7769
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Samara",
+        "name": "Ufa",
         "country": "Russia",
         "code": 71,
-        "temperature": -0.6,
+        "temperature": -5.1,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.1408,
-          53.2028
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Dingzhou",
-        "country": "China",
-        "code": 71,
-        "temperature": -2.5,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          114.99,
-          38.516
+          55.9475,
+          54.7261
         ]
       }
     },
@@ -791,7 +468,7 @@
         "name": "Zhufeng",
         "country": "China",
         "code": 71,
-        "temperature": -0.9,
+        "temperature": -2.0,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -805,10 +482,27 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Shouguang",
+        "country": "China",
+        "code": 71,
+        "temperature": -2.7,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.791,
+          36.857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Perm",
         "country": "Russia",
         "code": 71,
-        "temperature": -3.9,
+        "temperature": -3.2,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -822,41 +516,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Shuizhai",
-        "country": "China",
-        "code": 71,
-        "temperature": -0.2,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          114.8753,
-          33.4658
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Qingzhou",
-        "country": "China",
-        "code": 71,
-        "temperature": -3.3,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          118.4796,
-          36.6853
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Feicheng",
+        "name": "Jiaozhou",
         "country": "China",
         "code": 71,
         "temperature": -0.8,
@@ -865,49 +525,83 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.7719,
-          36.1861
+          120.0334,
+          36.2647
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Renqiu",
+        "name": "Wafangdian",
         "country": "China",
         "code": 71,
-        "temperature": -1.9,
+        "temperature": -5.1,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.084,
-          38.686
+          121.9796,
+          39.6271
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Hejian",
+        "name": "Gaomi",
         "country": "China",
         "code": 71,
-        "temperature": -1.7,
+        "temperature": -1.6,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.0995,
-          38.4466
+          119.75,
+          36.3833
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Puxi",
+        "name": "Anqiu",
+        "country": "China",
+        "code": 71,
+        "temperature": -2.1,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.219,
+          36.478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Weichanglu",
+        "country": "China",
+        "code": 71,
+        "temperature": -0.3,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.9333,
+          37.1792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Laiyang",
         "country": "China",
         "code": 71,
         "temperature": -0.9,
@@ -916,8 +610,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          114.735,
-          35.2125
+          120.7136,
+          36.9758
         ]
       }
     },
@@ -926,8 +620,8 @@
       "properties": {
         "name": "Erzurum",
         "country": "Turkey",
-        "code": 71,
-        "temperature": -1.0,
+        "code": 85,
+        "temperature": -1.5,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -941,119 +635,17 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Qingnian",
+        "name": "Laixi",
         "country": "China",
         "code": 71,
-        "temperature": -1.2,
+        "temperature": -1.4,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.7061,
-          36.8494
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Songyang",
-        "country": "China",
-        "code": 77,
-        "temperature": -1.5,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          113.0253,
-          34.4553
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Zouping",
-        "country": "China",
-        "code": 71,
-        "temperature": -2.1,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          117.743,
-          36.863
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Jianshe",
-        "country": "China",
-        "code": 71,
-        "temperature": -1.0,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          113.7629,
-          34.2137
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Tolyatti",
-        "country": "Russia",
-        "code": 71,
-        "temperature": -0.3,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.4222,
-          53.5089
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Puyang Chengguanzhen",
-        "country": "China",
-        "code": 71,
-        "temperature": -1.1,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          114.98,
-          35.7004
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Bazhou",
-        "country": "China",
-        "code": 71,
-        "temperature": -3.1,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          116.3833,
-          39.1333
+          120.5333,
+          36.8667
         ]
       }
     },
@@ -1063,7 +655,7 @@
         "name": "Qufu",
         "country": "China",
         "code": 71,
-        "temperature": -1.3,
+        "temperature": -0.8,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -1079,8 +671,8 @@
       "properties": {
         "name": "Izhevsk",
         "country": "Russia",
-        "code": 71,
-        "temperature": -2.2,
+        "code": 77,
+        "temperature": -1.4,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -1094,194 +686,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Changping",
-        "country": "China",
-        "code": 71,
-        "temperature": -4.6,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          116.1944,
-          40.2248
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Shenzhou",
-        "country": "China",
-        "code": 71,
-        "temperature": -1.6,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          115.56,
-          38.002
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Zhuozhou",
-        "country": "China",
-        "code": 71,
-        "temperature": -3.1,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          115.974,
-          39.485
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Xinji",
-        "country": "China",
-        "code": 71,
-        "temperature": -1.5,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          115.218,
-          37.943
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Botou",
-        "country": "China",
-        "code": 71,
-        "temperature": -0.9,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          116.5833,
-          38.0833
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Jieshou",
-        "country": "China",
-        "code": 71,
-        "temperature": 0.1,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          115.3746,
-          33.257
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Leling",
-        "country": "China",
-        "code": 71,
-        "temperature": -1.5,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          117.232,
-          37.73
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Naberezhnyye Chelny",
-        "country": "Russia",
-        "code": 71,
-        "temperature": -1.5,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.3167,
-          55.6833
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Balashikha",
-        "country": "Russia",
-        "code": 73,
-        "temperature": 0.3,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.9667,
-          55.8167
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Gaobeidian",
-        "country": "China",
-        "code": 71,
-        "temperature": -3.0,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          115.874,
-          39.327
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Cheboksary",
-        "country": "Russia",
-        "code": 71,
-        "temperature": 0.6,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.2333,
-          56.15
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Yucheng",
+        "name": "Kuiju",
         "country": "China",
         "code": 71,
         "temperature": -1.8,
@@ -1290,25 +695,127 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.638,
-          36.934
+          119.4,
+          36.8667
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Huanghua",
+        "name": "Luofeng",
         "country": "China",
         "code": 71,
-        "temperature": -0.8,
+        "temperature": -1.5,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          117.33,
-          38.372
+          120.396,
+          37.359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orenburg",
+        "country": "Russia",
+        "code": 71,
+        "temperature": -4.6,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.1,
+          51.7833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Van",
+        "country": "Turkey",
+        "code": 71,
+        "temperature": 0.5,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.38,
+          38.4942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ryazan",
+        "country": "Russia",
+        "code": 71,
+        "temperature": -2.4,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7425,
+          54.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anlu",
+        "country": "China",
+        "code": 85,
+        "temperature": 1.6,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.6667,
+          31.2667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Xingcheng",
+        "country": "China",
+        "code": 71,
+        "temperature": -8.3,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7333,
+          40.6167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Penza",
+        "country": "Russia",
+        "code": 71,
+        "temperature": 0.8,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.0,
+          53.2
         ]
       }
     },
@@ -1318,7 +825,7 @@
         "name": "Kirov",
         "country": "Russia",
         "code": 71,
-        "temperature": -0.4,
+        "temperature": -6.2,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -1332,85 +839,136 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Gaoping",
-        "country": "China",
-        "code": 71,
-        "temperature": -1.5,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          112.924,
-          35.798
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Tver",
+        "name": "Tula",
         "country": "Russia",
         "code": 85,
-        "temperature": -1.9,
+        "temperature": -2.7,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.9242,
-          56.8625
+          37.6167,
+          54.2
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Zhangjiakou Shi Xuanhua Qu",
+        "name": "Beipiao",
         "country": "China",
         "code": 71,
-        "temperature": -6.2,
+        "temperature": -10.9,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.0243,
-          40.5944
+          120.771,
+          41.801
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Anguo",
+        "name": "Zhuangyuan",
         "country": "China",
         "code": 71,
-        "temperature": -2.2,
+        "temperature": -1.6,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.327,
-          38.418
+          120.829,
+          37.3056
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Vladimir",
+        "name": "Beining",
+        "country": "China",
+        "code": 71,
+        "temperature": -10.0,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8,
+          41.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Linghai",
+        "country": "China",
+        "code": 71,
+        "temperature": -9.6,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.35,
+          41.1667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pingquan",
+        "country": "China",
+        "code": 71,
+        "temperature": -8.2,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.702,
+          41.0184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Surgut",
         "country": "Russia",
         "code": 71,
-        "temperature": 0.4,
+        "temperature": -10.1,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          40.4058,
-          56.1286
+          73.4333,
+          61.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaluga",
+        "country": "Russia",
+        "code": 71,
+        "temperature": -3.2,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2833,
+          54.55
         ]
       }
     },
@@ -1419,8 +977,8 @@
       "properties": {
         "name": "Asahikawa",
         "country": "Japan",
-        "code": 71,
-        "temperature": -9.6,
+        "code": 85,
+        "temperature": -8.6,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -1434,34 +992,34 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Nizhniy Tagil",
+        "name": "Podolsk",
         "country": "Russia",
         "code": 71,
-        "temperature": -3.8,
+        "temperature": -4.3,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          59.9667,
-          57.9167
+          37.5456,
+          55.4311
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Yunzhong",
-        "country": "China",
-        "code": 71,
-        "temperature": -5.2,
+        "name": "Vologda",
+        "country": "Russia",
+        "code": 85,
+        "temperature": -5.3,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          113.1,
-          39.8279
+          39.9,
+          59.2167
         ]
       }
     },
@@ -1471,7 +1029,7 @@
         "name": "Yonghetun",
         "country": "China",
         "code": 71,
-        "temperature": -4.2,
+        "temperature": -5.3,
         "temperature_unit": "°C"
       },
       "geometry": {
