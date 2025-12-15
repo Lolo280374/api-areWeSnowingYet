@@ -1,90 +1,39 @@
 {
   "type": "FeatureCollection",
-  "generated": "2025-12-15T13:00:58.995558Z",
-  "next_refresh": "2025-12-15T18:00:58.995558Z",
+  "generated": "2025-12-15T19:00:45.393486Z",
+  "next_refresh": "2025-12-16T00:00:45.393486Z",
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "name": "Almaty",
-        "country": "Kazakhstan",
-        "code": 77,
-        "temperature": -2.5,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.915,
-          43.24
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Fushun",
-        "country": "China",
-        "code": 85,
-        "temperature": -0.7,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.957,
-          41.881
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Yekaterinburg",
-        "country": "Russia",
+        "name": "Sapporo",
+        "country": "Japan",
         "code": 71,
-        "temperature": -14.2,
+        "temperature": -3.4,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          60.6128,
-          56.8356
+          141.3544,
+          43.0619
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Kazan",
-        "country": "Russia",
+        "name": "Kharkiv",
+        "country": "Ukraine",
         "code": 71,
-        "temperature": -9.8,
+        "temperature": -1.4,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.1089,
-          55.7964
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Shuangyashan",
-        "country": "China",
-        "code": 71,
-        "temperature": -13.6,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          131.1416,
-          46.6762
+          36.2311,
+          49.9925
         ]
       }
     },
@@ -125,119 +74,68 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Omsk",
+        "name": "Krasnoyarsk",
         "country": "Russia",
         "code": 71,
-        "temperature": -8.9,
+        "temperature": 0.0,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          73.3667,
-          54.9833
+          92.8719,
+          56.0089
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Izhevsk",
-        "country": "Russia",
-        "code": 71,
-        "temperature": -12.9,
+        "name": "Astana",
+        "country": "Kazakhstan",
+        "code": 85,
+        "temperature": -9.6,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.1833,
-          56.8333
+          71.4222,
+          51.1472
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Khabarovsk",
-        "country": "Russia",
-        "code": 71,
-        "temperature": -20.8,
+        "name": "Buffalo",
+        "country": "United States",
+        "code": 73,
+        "temperature": -4.5,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.0833,
-          48.4833
+          -78.8487,
+          42.9018
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Kemerovo",
-        "country": "Russia",
-        "code": 71,
-        "temperature": 1.1,
+        "name": "Kitchener",
+        "country": "Canada",
+        "code": 73,
+        "temperature": -7.6,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          86.0667,
-          55.3667
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Naberezhnyye Chelny",
-        "country": "Russia",
-        "code": 71,
-        "temperature": -11.8,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.3167,
-          55.6833
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Orenburg",
-        "country": "Russia",
-        "code": 71,
-        "temperature": -9.8,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.1,
-          51.7833
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Novokuznetsk",
-        "country": "Russia",
-        "code": 71,
-        "temperature": 1.8,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          87.1333,
-          53.7667
+          -80.4728,
+          43.4186
         ]
       }
     },
@@ -247,7 +145,7 @@
         "name": "Kirov",
         "country": "Russia",
         "code": 71,
-        "temperature": -12.3,
+        "temperature": -12.8,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -261,17 +159,17 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Tula",
+        "name": "Ulan-Ude",
         "country": "Russia",
         "code": 71,
-        "temperature": -4.7,
+        "temperature": -13.4,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.6167,
-          54.2
+          107.6,
+          51.8333
         ]
       }
     },
@@ -281,7 +179,7 @@
         "name": "Kursk",
         "country": "Russia",
         "code": 71,
-        "temperature": -2.8,
+        "temperature": -1.8,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -298,7 +196,7 @@
         "name": "Surgut",
         "country": "Russia",
         "code": 71,
-        "temperature": -6.6,
+        "temperature": -7.2,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -312,68 +210,34 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Aqtöbe",
-        "country": "Kazakhstan",
+        "name": "Oshawa",
+        "country": "Canada",
+        "code": 73,
+        "temperature": -4.9,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.85,
+          43.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Asahikawa",
+        "country": "Japan",
         "code": 71,
-        "temperature": -10.6,
+        "temperature": -2.3,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          57.2297,
-          50.2836
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Bryansk",
-        "country": "Russia",
-        "code": 77,
-        "temperature": -1.0,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.3667,
-          53.2425
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Sivas",
-        "country": "Turkey",
-        "code": 71,
-        "temperature": 1.6,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.0167,
-          39.75
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Semey",
-        "country": "Kazakhstan",
-        "code": 85,
-        "temperature": -5.2,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.2667,
-          50.4333
+          142.3667,
+          43.7667
         ]
       }
     },
@@ -383,7 +247,7 @@
         "name": "Belgorod",
         "country": "Russia",
         "code": 71,
-        "temperature": -2.8,
+        "temperature": -2.1,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -391,23 +255,6 @@
         "coordinates": [
           36.6,
           50.6
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Orël",
-        "country": "Russia",
-        "code": 71,
-        "temperature": -3.2,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.0694,
-          52.9686
         ]
       }
     }
