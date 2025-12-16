@@ -1,22 +1,22 @@
 {
   "type": "FeatureCollection",
-  "generated": "2025-12-16T01:01:06.112916Z",
-  "next_refresh": "2025-12-16T06:01:06.112916Z",
+  "generated": "2025-12-16T07:00:49.691985Z",
+  "next_refresh": "2025-12-16T12:00:49.691985Z",
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "name": "Sapporo",
-        "country": "Japan",
+        "name": "Moscow",
+        "country": "Russia",
         "code": 71,
-        "temperature": -2.7,
+        "temperature": -3.7,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          141.3544,
-          43.0619
+          37.6175,
+          55.7506
         ]
       }
     },
@@ -25,8 +25,8 @@
       "properties": {
         "name": "Kayseri",
         "country": "Turkey",
-        "code": 85,
-        "temperature": 0.9,
+        "code": 71,
+        "temperature": -0.1,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -40,17 +40,17 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Astana",
-        "country": "Kazakhstan",
-        "code": 85,
-        "temperature": -9.4,
+        "name": "Edmonton",
+        "country": "Canada",
+        "code": 73,
+        "temperature": -12.1,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          71.4222,
-          51.1472
+          -113.4903,
+          53.5344
         ]
       }
     },
@@ -59,8 +59,8 @@
       "properties": {
         "name": "Melikgazi",
         "country": "Turkey",
-        "code": 85,
-        "temperature": 1.4,
+        "code": 71,
+        "temperature": -0.2,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -74,68 +74,34 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Tomsk",
+        "name": "Yaroslavl",
         "country": "Russia",
-        "code": 85,
-        "temperature": -8.4,
+        "code": 71,
+        "temperature": -8.6,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          84.9667,
-          56.5
+          39.85,
+          57.6167
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Orenburg",
-        "country": "Russia",
+        "name": "Hamadān",
+        "country": "Iran",
         "code": 71,
-        "temperature": -12.1,
+        "temperature": 0.9,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          55.1,
-          51.7833
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Van",
-        "country": "Turkey",
-        "code": 71,
-        "temperature": -2.3,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          43.38,
-          38.4942
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Kirov",
-        "country": "Russia",
-        "code": 71,
-        "temperature": -14.8,
-        "temperature_unit": "°C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.6833,
-          58.6
+          48.5161,
+          34.8064
         ]
       }
     },
@@ -144,8 +110,8 @@
       "properties": {
         "name": "Stavropol",
         "country": "Russia",
-        "code": 71,
-        "temperature": -0.2,
+        "code": 77,
+        "temperature": -1.4,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -159,17 +125,17 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Ulan-Ude",
+        "name": "Tver",
         "country": "Russia",
         "code": 71,
-        "temperature": -11.3,
+        "temperature": -0.6,
         "temperature_unit": "°C"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6,
-          51.8333
+          35.9242,
+          56.8625
         ]
       }
     },
@@ -178,8 +144,8 @@
       "properties": {
         "name": "Kocasinan",
         "country": "Turkey",
-        "code": 85,
-        "temperature": 0.9,
+        "code": 71,
+        "temperature": -0.0,
         "temperature_unit": "°C"
       },
       "geometry": {
@@ -187,6 +153,108 @@
         "coordinates": [
           35.4833,
           38.7333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sivas",
+        "country": "Turkey",
+        "code": 71,
+        "temperature": -0.9,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0167,
+          39.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arkhangelsk",
+        "country": "Russia",
+        "code": 71,
+        "temperature": -9.2,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.5375,
+          64.5431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaluga",
+        "country": "Russia",
+        "code": 77,
+        "temperature": -1.6,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2833,
+          54.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Asahikawa",
+        "country": "Japan",
+        "code": 71,
+        "temperature": -4.3,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.3667,
+          43.7667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nizhniy Tagil",
+        "country": "Russia",
+        "code": 71,
+        "temperature": -15.5,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.9667,
+          57.9167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vologda",
+        "country": "Russia",
+        "code": 71,
+        "temperature": -8.2,
+        "temperature_unit": "°C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.9,
+          59.2167
         ]
       }
     }
